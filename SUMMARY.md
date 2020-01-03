@@ -1,4 +1,9 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
+* [Conclusion](conclusion.md)
+
+## Estimation
+
+* [Estimation](estimation/estimation.md)
 
