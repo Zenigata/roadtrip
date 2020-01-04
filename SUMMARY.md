@@ -17,8 +17,8 @@
 
 ## MVP
 
-* [Minimal Marketable Feature](mvp/untitled/README.md)
-  * [Minimal Viable Product](mvp/untitled/minimal-viable-product.md)
+* [Minimal Marketable Feature](mvp/untitled.md)
+* [Minimal Viable Product](mvp/minimal-viable-product.md)
 
 ## Triangle de fer
 
