@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Conclusion](conclusion.md)
 
 ## Estimation
 
@@ -17,5 +16,12 @@
 
 ## MVP
 
-* [Untitled](mvp/untitled.md)
+* [Minimal Marketable Feature](mvp/untitled/README.md)
+  * [Minimal Viable Product](mvp/untitled/minimal-viable-product.md)
+
+## Triangle de fer
+
+* [Projet](triangle-de-fer/projet.md)
+* [QCD](triangle-de-fer/qcd.md)
+* [Conclusion](triangle-de-fer/conclusion.md)
 
