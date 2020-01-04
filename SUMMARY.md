@@ -13,6 +13,7 @@
   * [Uncertain](monde/vuca/uncertain.md)
   * [Complexe](monde/vuca/complexe.md)
   * [Ambigu](monde/vuca/ambigu.md)
+* [Matrice de Stacey](monde/stacey.md)
 
 ## MVP
 
@@ -23,5 +24,5 @@
 
 * [Projet](triangle-de-fer/projet.md)
 * [QCD](triangle-de-fer/qcd.md)
-* [Conclusion](triangle-de-fer/conclusion.md)
+* [Conclusion](conclusion.md)
 
