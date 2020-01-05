@@ -32,6 +32,13 @@
 
 ## Équipe
 
-* [Communication](equipe/communication.md)
-* [Untitled](equipe/untitled.md)
+* [Communication](equipe/communication/README.md)
+  * [Communication non verbale](equipe/communication/communication-non-verbale.md)
+  * [Communication NonViolente](equipe/communication/communication-nonviolente.md)
+* [Polyvalente](equipe/untitled.md)
+
+## Posture
+
+* [Haute](posture/haute.md)
+* [Solution Focus](posture/solution-focus.md)
 
