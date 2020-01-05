@@ -30,3 +30,8 @@
 
 * [Robert](persona/robert.md)
 
+## Équipe
+
+* [Communication](equipe/communication.md)
+* [Untitled](equipe/untitled.md)
+
